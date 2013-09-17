@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/domob/!svn/ver/47167/SubSystem/OfferWall/OfferWallUI/branches/owui.3356/lib/thrift/transport
+END
+TNullTransport.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/domob/!svn/ver/47167/SubSystem/OfferWall/OfferWallUI/branches/owui.3356/lib/thrift/transport/TNullTransport.php
+END
+TSocket.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/domob/!svn/ver/47167/SubSystem/OfferWall/OfferWallUI/branches/owui.3356/lib/thrift/transport/TSocket.php
+END
+TFramedTransport.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/domob/!svn/ver/47167/SubSystem/OfferWall/OfferWallUI/branches/owui.3356/lib/thrift/transport/TFramedTransport.php
+END
+TTransport.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/domob/!svn/ver/47167/SubSystem/OfferWall/OfferWallUI/branches/owui.3356/lib/thrift/transport/TTransport.php
+END
+THttpClient.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/domob/!svn/ver/47167/SubSystem/OfferWall/OfferWallUI/branches/owui.3356/lib/thrift/transport/THttpClient.php
+END
+TBufferedTransport.php
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/domob/!svn/ver/47167/SubSystem/OfferWall/OfferWallUI/branches/owui.3356/lib/thrift/transport/TBufferedTransport.php
+END
+TServerSocket.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/domob/!svn/ver/47167/SubSystem/OfferWall/OfferWallUI/branches/owui.3356/lib/thrift/transport/TServerSocket.php
+END
+TMemoryBuffer.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/domob/!svn/ver/47167/SubSystem/OfferWall/OfferWallUI/branches/owui.3356/lib/thrift/transport/TMemoryBuffer.php
+END
+TSocketPool.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/domob/!svn/ver/47167/SubSystem/OfferWall/OfferWallUI/branches/owui.3356/lib/thrift/transport/TSocketPool.php
+END
+TPhpStream.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/domob/!svn/ver/47167/SubSystem/OfferWall/OfferWallUI/branches/owui.3356/lib/thrift/transport/TPhpStream.php
+END
+TServerTransport.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/domob/!svn/ver/47167/SubSystem/OfferWall/OfferWallUI/branches/owui.3356/lib/thrift/transport/TServerTransport.php
+END
+TTransportFactory.php
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/domob/!svn/ver/47167/SubSystem/OfferWall/OfferWallUI/branches/owui.3356/lib/thrift/transport/TTransportFactory.php
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/domob/!svn/ver/47167/SubSystem/OfferWall/OfferWallUI/branches/owui.3356/lib/thrift/protocol
+END
+TBinaryProtocol.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/domob/!svn/ver/47167/SubSystem/OfferWall/OfferWallUI/branches/owui.3356/lib/thrift/protocol/TBinaryProtocol.php
+END
+TProtocol.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/domob/!svn/ver/47167/SubSystem/OfferWall/OfferWallUI/branches/owui.3356/lib/thrift/protocol/TProtocol.php
+END

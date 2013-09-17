@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/domob/!svn/ver/47167/SubSystem/OfferWall/OfferWallUI/branches/owui.3356/lib/thrift/ext/thrift_protocol
+END
+config.m4
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/domob/!svn/ver/47167/SubSystem/OfferWall/OfferWallUI/branches/owui.3356/lib/thrift/ext/thrift_protocol/config.m4
+END
+php_thrift_protocol.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/domob/!svn/ver/47167/SubSystem/OfferWall/OfferWallUI/branches/owui.3356/lib/thrift/ext/thrift_protocol/php_thrift_protocol.cpp
+END
+php_thrift_protocol.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/domob/!svn/ver/47167/SubSystem/OfferWall/OfferWallUI/branches/owui.3356/lib/thrift/ext/thrift_protocol/php_thrift_protocol.h
+END
